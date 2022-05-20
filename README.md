@@ -32,32 +32,23 @@
 ---
 
 <details>
-  <summary>⚡ Recent GitHub Activity:</summary>
+  <summary>⚡ Recent works </summary>
   
 <!--START_SECTION:activity-->
-1. 👽 Vk [vk/react-redux app](https://github.com/h4rb4rd/vk-app)
-2. 📝 Blog [angular-blog/angular app](https://github.com/h4rb4rd/angular-blog)
-3. 💎 Shop [angular-shop/angular app](https://github.com/h4rb4rd/angular-shop)
-4. 🔥 ReStore [restore/react-redux app](https://github.com/h4rb4rd/ReStore)
-5. 🏄 Select [select/javascript plugin](https://github.com/h4rb4rd/Select-plugin)
-6. 🔲 Modal window [modal window/javascript plugin](https://github.com/h4rb4rd/Modal-Window)
+1. ✔️ Rs Lang [h4rb4rd/rs-lang](https://rs-lang2022.netlify.app/)
+2. ✔️ Xbox catalog [h4rb4rd/xbox-catalog](https://xbox-catalog.vercel.app/)
 <!--END_SECTION:activity-->
 
 </details>
 
 <details>
-  <summary>⚡ Recently Completed Projects:</summary>
+  <summary>⚡ Old works </summary>
   
 <!--START_SECTION:activity-->
-1. ✔️ Puma [puma](https://h4rb4rd.github.io/puma/)
-2. ✔️ Fashion [fashion](https://h4rb4rd.github.io/fashion/)
-3. ✔️ Summer [summer](https://h4rb4rd.github.io/summer/)
-4. ✔️ Global Shop[global-shop](https://h4rb4rd.github.io/global/)
-5. ✔️ Market Supply [market-supply](https://h4rb4rd.github.io/market/)
-6. ✔️ Nike [nike](https://h4rb4rd.github.io/nike/)
-7. ✔️ Okna [okna](https://h4rb4rd.github.io/okna/)
-8. ✔️ Blog [angular-blog](https://angular-blog-bf27a.web.app/)
-9. ✔️ Shop [angular-shop](https://angular-shop-cf5c5.web.app/)
+1. ✔️ Christmas [h4rb4rd/christmas](https://rolling-scopes-school.github.io/h4rb4rd-JSFE2021Q3/christmas-task)
+2. ✔️ Art-Quiz [h4rb4rd/art-quiz](https://rolling-scopes-school.github.io/h4rb4rd-JSFE2021Q3/art-quiz/index.html)
+3. ✔️ Museum [h4rb4rd/museum](https://rolling-scopes-school.github.io/h4rb4rd-JSFEPRESCHOOL/museum/)
+4. ✔️ Momentum [h4rb4rd/momentum](https://rolling-scopes-school.github.io/h4rb4rd-JSFEPRESCHOOL/momentum/)
 <!--END_SECTION:activity-->
 
 </details>
