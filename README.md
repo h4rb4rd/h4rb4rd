@@ -37,7 +37,8 @@
 <!--START_SECTION:activity-->
 1. ✔️ Trello Clone [h4rb4rd/trello-clone](https://trello-clone-2022.netlify.app/)
 2. ✔️ Rs Lang [h4rb4rd/rs-lang](https://rs-lang2022.netlify.app/)
-3. ✔️ Xbox catalog [h4rb4rd/xbox-catalog](https://xbox-catalog.vercel.app/)
+3. ✔️ Netflix [h4rb4rd/netflix-clone](https://netflix-app-psi.vercel.app/)
+4. ✔️ Xbox catalog [h4rb4rd/xbox-catalog](https://xbox-catalog.vercel.app/)
 <!--END_SECTION:activity-->
 
 </details>
